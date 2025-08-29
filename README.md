@@ -3,11 +3,11 @@
 
 主に以下の文書を含みます：
 
-- **利用規約(.md)**
+- **[利用規約](https://github.com/CraftersHubJP/VoiceBOT-Docs/blob/main/VoiceBOT_Terms_of_Service.md)**
 
 VoiceBOT を利用する際のルールや注意事項について記載しています。
 
-- **プライバシーポリシー(.md)**
+- **[プライバシーポリシー](https://github.com/CraftersHubJP/VoiceBOT-Docs/blob/main/VoiceBOT_Privacy_Policy.md)**
 
 ユーザーデータの収集・保存方法、個人情報の取り扱い、第三者提供の有無など、プライバシーに関する方針を説明しています。
 
