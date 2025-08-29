@@ -21,15 +21,22 @@ VoiceBOT を利用するには、公式の Discord サーバーに参加し、�
 
 更新情報は Discord 上でお知らせしますのでご確認ください。
 
+## 使用技術 
+本BOTの音声合成には、**[VOICEVOX CORE](https://github.com/VOICEVOX/voicevox_core)** を使用しています。
+
+## クレジット 
+**VOICEVOX**:ずんだもん
+
 ## 提供元
 提供者: CraftersHub
 
 提供方法: Discord BOT
 
 ## お問い合わせ・サポート
-Discord: 公式サーバーへの参加はこちらから。[https://discord.com/invite/7AAYWrYvaA]
 
-お問い合わせフォーム: ご質問やご意見は、こちらのフォームからお送りください。[URL]
+**公式サーバー**:
+
+**お問い合わせフォーム**:
 
 © 2025 CraftersHub. All rights reserved.  
 このドキュメントの無断転載・改変はご遠慮ください。
