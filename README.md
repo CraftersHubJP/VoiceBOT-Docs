@@ -34,9 +34,9 @@ VoiceBOT を利用するには、公式の Discord サーバーに参加し、�
 
 ## お問い合わせ・サポート
 
-**公式サーバー**:
+**公式サーバー**: [こちらから](https://discord.gg/VX6xg9mxfa)
 
-**お問い合わせフォーム**:
+**お問い合わせフォーム**: [こちらから](https://forms.gle/ZoG4XVH3BSvHg1ZT8)
 
 © 2025 CraftersHub. All rights reserved.  
 このドキュメントの無断転載・改変はご遠慮ください。
